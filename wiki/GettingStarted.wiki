@@ -45,6 +45,7 @@ The domain name, access id, and secret key are all required. There are also some
 
 Until I create a TAR/ZIP with all the dependencies (need to make sure the licenses are respected), here is a list of dependencies:
 
+{{{
 commons-codec-1.3.jar
 logback-core-0.9.15.jar
 commons-httpclient-3.1.jar
@@ -54,3 +55,4 @@ slf4j-api-1.5.8.jar
 joda-time-1.6.jar
 typica-1.6.jar
 logback-classic-0.9.15.jar
+}}}

@@ -10,7 +10,7 @@ Please see the scripts in /etc for an example of a program to log from STDIN to 
 
 The usage is
 
-stdin2simpledb.sh [path to logback.xml]
+stdin2simpledb.sh path-to-logback.xml
 
 = Integrating to existing SLF4J =
 

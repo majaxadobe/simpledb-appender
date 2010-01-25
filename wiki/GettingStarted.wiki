@@ -4,6 +4,9 @@
 
 You can either integrate simpledb-appender into an existing project using SLF4J, or use the standalone tools to log the STDOUT/STDERR output of other apps to log to SimpleDB.
 
+= Download and build =
+You can download the JAR from the Downloads page, or you can build with maven.
+
 = Using the standalone tools =
 
 Please see the scripts in /etc for an example of a program to log from STDIN to SimpleDB. Copy these scripts to your system. Create a directory "lib" and drop the simpledb-appender JAR, and the dependency JARs in the lib folder. Run stdin2simpledb.sh
